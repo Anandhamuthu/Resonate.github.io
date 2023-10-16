@@ -1,2 +1,2 @@
-# Resonate.github.io
-Webpage create
+# Repository.github.io
+Creating a simple website 
